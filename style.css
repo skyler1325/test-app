@@ -1,5 +1,8 @@
-body:{
-  text-align: center;
-  background-color: #001030;
-  color: #111111;
-};
+body {
+    text-align: center;
+    background-color: #aaaaff; /* Updated to a bright blue */
+    color: #111111; /* Kept text color dark for contrast */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
